@@ -1,0 +1,1 @@
+export const server_url='https://redux-mini-pokedex-server-may-2026.onrender.com'
