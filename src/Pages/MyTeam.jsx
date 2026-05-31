@@ -56,7 +56,7 @@ function MyTeam() {
                     style={{ height: '180px', objectFit: 'contain' }} 
                   />
                   <Card.Body>
-                    <p className="text-muted mb-1">#{pokemon.id}</p>
+                    {/* <p className="text-muted mb-1">#{pokemon.id}</p> */}
                     <Card.Title className="text-capitalize fw-bold fs-4 mb-3">
                       {pokemon.name}
                     </Card.Title>
